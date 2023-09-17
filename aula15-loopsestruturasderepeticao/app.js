@@ -1,6 +1,7 @@
 // Loops podem ser indefinidos (While e Do While) e definidos (For-sabe a quantidade de vezes que vai iterar)
 console.log("Início do programa")
 
+//SINTAXE for ([inicialização]; [condição]; [expressão final])
 for(let i=0; i < 10; i++){
     console.log("CFB Cursos - valor do i: " + i)
 }
