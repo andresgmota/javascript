@@ -35,3 +35,4 @@ const pessoa = {
 for (let atributo in pessoa) {//for in pode ser usado para percorrer objetos
     console.log(`${atributo}: ${pessoa[atributo]}`);//usou template strings
 }
+
